@@ -1,6 +1,6 @@
 LinuxCNC related documentation
 Please see ReadMe_J.txt to read the Japanese Readme.
-The Japanese document is an M-Word file translated by Google.
+The Japanese document is an MS-Word file translated by Google.
 
 For LinuxCNC_Manual_Pages.pdf, only the parts I need to understand are translated item by item. Please note that not all have been translated.
 
